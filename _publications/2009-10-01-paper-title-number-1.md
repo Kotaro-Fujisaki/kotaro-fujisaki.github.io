@@ -1,19 +1,31 @@
 ---
-title: "Paper Title Number 1"
+title: "Work in Progress"
 collection: publications
-# permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 2009-10-01
-# venue: 'Journal 1'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
+# Work in Progress
+
+## Paper Title Number 1
+
+## Abstract
+
+This paper explores the significance of the number 1 in various mathematical contexts. The study delves into its unique properties and its implications in different fields of study. The discussion on the number 2 is deferred for future research.
 
 ## Presentation Experiences
 
 - **Conference on Mathematics**, 2022: Presented the core findings of the paper, focusing on the implications of the number 1 in algebraic structures.
 - **Workshop on Number Theory**, 2023: Delivered a talk on the theoretical aspects of the number 1, with discussions on potential future work related to the number 2.
 
+---
 
-# The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Paper Title Number 2
+
+## Abstract
+
+This paper focuses on the properties of the number 2, building on the findings related to the number 1. It explores the mathematical and theoretical implications of the number 2 in various contexts.
+
+## Presentation Experiences
+
+- **Mathematics Symposium**, 2023: Discussed the ongoing research on the number 2 and its potential applications in number theory.
+- **International Conference on Algebra**, 2024: Presented initial findings and proposed future research directions related to the number 2.
+
