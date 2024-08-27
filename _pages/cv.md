@@ -7,4 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-[Download my CV](https://kotaro-fujisaki.github.io/files/CV_Aug2024.pdf)
+
+<a href="https://kotaro-fujisaki.github.io/files/CV_Aug2024.pdf" target="_blank">CV (Last updated: August 2024)</a>
+
