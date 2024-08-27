@@ -23,7 +23,7 @@ Presentations: Stockholm U (scheduled), PSE-CEPR Policy Forum, UCL-Stone Researc
 
 Presentations: AASLE Taipei, UCL
 
-### Gendered Impacts of Free Primary Education in Rural Areas: The Roles of Gender Norms and Returns to Education
+### Gendered Impacts of Free Primary Education in Rural Indonesia
 
 <!--- 
 {% if site.author.googlescholar %}
