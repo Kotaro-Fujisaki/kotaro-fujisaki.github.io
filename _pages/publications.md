@@ -22,14 +22,8 @@ Presentations: Stockholm U (scheduled), PSE-CEPR Policy Forum, UCL-Stone Researc
 ### Dual Impact of Immigration on Labor Supply and Demand in the Service Sector
 
 Presentations: AASLE Taipei, UCL
-<!--- 
-### Presentation Experiences
 
-- **Conference on Mathematics**, 2022: Presented the core findings of the paper, focusing on the implications of the number 1 in algebraic structures.
-- **Workshop on Number Theory**, 2023: Delivered a talk on the theoretical aspects of the number 1, with discussions on potential future work related to the number 2.
- -->
- 
-### Gendered Impacts of Free Primary Education in Rural Areas:<br />The Roles of Gender Norms and Returns to Education
+### Gendered Impacts of Free Primary Education in Rural Areas: The Roles of Gender Norms and Returns to Education
 
 <!--- 
 {% if site.author.googlescholar %}
