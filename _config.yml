@@ -303,6 +303,20 @@ plugins:
    - jekyll-feed
    - jemoji
 
+sitemap:
+  exclude:
+    - /posts/
+    - /publications/2009-10-01-paper-title-number-1/
+    - /teaching/
+    - /markdown_generator/
+    - /terms/
+    - /talks/
+    - /year-archive/
+    - /talkmap.html
+    - /tags/
+    
+    # Add any other pages you want to exclude
+    
 
 # Archives
 #  Type
