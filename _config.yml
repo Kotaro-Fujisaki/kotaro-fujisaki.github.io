@@ -209,13 +209,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -256,24 +249,6 @@ defaults:
       share: true
       comments: true
       
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
-
 
 # Sass/SCSS
 sass:
@@ -317,7 +292,6 @@ sitemap:
     - /portfolio/
     - /page-archive/
     - /non-menu-page/
-    
     # Add any other pages you want to exclude
     
 
