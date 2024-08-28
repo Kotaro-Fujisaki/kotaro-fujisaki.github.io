@@ -7,7 +7,6 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
 title                    : "Kotaro Fujisaki"
 title_separator          : "-"
 name                     : &name "Kotaro Fujisaki"
