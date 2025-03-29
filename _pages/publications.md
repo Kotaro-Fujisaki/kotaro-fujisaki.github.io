@@ -9,11 +9,8 @@ author_profile: true
 # Working Papers
 
 ### Heterogenous Effectiveness of Education Policies by Gender and Culture
-
-Presentations: RES PhD Conference, Stockholm U, PSE-CEPR Policy Forum, UCL-Stone Research Day, Osaka U
-
-Awards: Kanematsu Prize, Kobe U, Japan, 2025
-
+Presentations: RES PhD Conference, Stockholm U, PSE-CEPR Policy Forum, UCL-Stone Research Day, Osaka U  
+Awards: Kanematsu Prize, Kobe U, Japan, 2025  
 (Draft coming soon)
 
 # Work in Progress
