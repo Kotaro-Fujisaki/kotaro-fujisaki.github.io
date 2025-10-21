@@ -8,22 +8,28 @@ author_profile: true
 
 # Working Papers
 
-### Heterogenous Effectiveness of Education Policies by Gender and Culture
-Presentations: RES PhD Conference, Stockholm U, PSE-CEPR Policy Forum, UCL-Stone Research Day, Osaka U  
+### Policy for Closing Education Gaps Across Gender and Culture: Tuition-Free Education or School Construction
+Presentations: RES PhD Conference, Stockholm U, PSE-CEPR Policy Forum, UCL-Stone Research Day, U Osaka, Kobe U, U Luxembourg Workshop of Gender and Economics, U Osaka ISER (scheduled)
 Awards: Kanematsu Prize, Kobe U, Japan, 2025  
 (Draft coming soon)
 
 # Work in Progress
 
+### Corporate Social Responsibility, Firm Performance, and Environment: Evidence from Mandatory CSR in Indonesia
+Presentations: U Osaka, UCL, Young JADE Conference (scheduled)
+Grants: Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25
+
+### Minimum Wage Implementation and Labour Market Dynamics: Regional versus Occupational Targeting
+Grants: Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26
+
+### First Steps in Eradicating Child Labor: Sectoral Bans and Education Expansion in Cambodia
+Grants: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
+
+### Does Transparency Reduce Gender Inequality in the Workplace? Evidence from Japanese Firms - with Miki Kohara
+
 ### Gendered Trade-off Between Schooling and Household Labor
+Presentations: AASLE Bangkok, Stone Centre Conference on Education and Inequality
 
-Presentations: AASLE Bangkok, Stone Centre Conference on Education and Inequality (scheduled, poster session)
-
-### Socioeconomic Impacts of Corporate Social Responsibility
-
-Grants: Approx. 5000 GBP, Mishima Kaiun Memorial Foundation, 2024-25
-
-### Gender Pay Gap Transparency: Evidence from Japan - with Miki Kohara
 
 <!--- 
 ### Presentation Experiences
