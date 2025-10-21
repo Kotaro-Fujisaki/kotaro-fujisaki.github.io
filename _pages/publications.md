@@ -14,7 +14,7 @@ author_profile: true
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
-  *This paper examines what types of education policies can effectively serve underrepresented groups, given a local culture in a developing country. Using a regression discontinuity design, it shows that Indonesia’s Free Primary Education (FPE) program, which abolished primary school tuition fees in 1977–1978, improved historically low female educational attainment. These educational gains also reduced child marriage and raised future earnings. Unlike the concurrent school construction program, FPE was equally effective in communities lacking bride price custom. In culturally low-demand settings, tuition removal can more effectively promote female education than supply-side interventions, helping to close education gaps across both gender and culture.*  
+  This paper examines what types of education policies can effectively serve underrepresented groups, given a local culture in a developing country. Using a regression discontinuity design, it shows that Indonesia’s Free Primary Education (FPE) program, which abolished primary school tuition fees in 1977–1978, improved historically low female educational attainment. These educational gains also reduced child marriage and raised future earnings. Unlike the concurrent school construction program, FPE was equally effective in communities lacking bride price custom. In culturally low-demand settings, tuition removal can more effectively promote female education than supply-side interventions, helping to close education gaps across both gender and culture.  
   
 </details>
 <br>
@@ -27,7 +27,7 @@ author_profile: true
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
-  *Corporate social responsibility (CSR) is the integration of social, environmental, and ethical values into business practices. This paper studies its effects on firms’ profits, production, and environmental outcomes in Indonesia. To address endogeneity in CSR adoption, I exploit the country’s legal requirement that limited-liability firms in natural-resource–related industries implement CSR activities. A triple-difference design shows that the mandate improved environmental performance by reducing the use of polluting fuels. Effects are larger for firms with stronger community-based relational incentives, particularly those relying on locally sourced private capital. The fuel shift involved a reallocation of expenditures but did not affect profits, output, total revenue, or total expenses. Village–firm matched data corroborate a decline in reported pollution incidents around obligated firms. Even without strong enforcement, legal CSR requirements can complement traditional environmental regulation when firms are embedded in local networks that provide additional CSR incentives.*  
+  Corporate social responsibility (CSR) is the integration of social, environmental, and ethical values into business practices. This paper studies its effects on firms’ profits, production, and environmental outcomes in Indonesia. To address endogeneity in CSR adoption, I exploit the country’s legal requirement that limited-liability firms in natural-resource–related industries implement CSR activities. A triple-difference design shows that the mandate improved environmental performance by reducing the use of polluting fuels. Effects are larger for firms with stronger community-based relational incentives, particularly those relying on locally sourced private capital. The fuel shift involved a reallocation of expenditures but did not affect profits, output, total revenue, or total expenses. Village–firm matched data corroborate a decline in reported pollution incidents around obligated firms. Even without strong enforcement, legal CSR requirements can complement traditional environmental regulation when firms are embedded in local networks that provide additional CSR incentives.  
 </details>
 <br>
 
@@ -40,8 +40,8 @@ author_profile: true
 ### Gendered Trade-off Between Schooling and Household Labor
 * Presentations: AASLE Bangkok, Stone Centre Conference on Education and Inequality
 
-<h3>Does Transparency Reduce Gender Inequality in the Workplace? Evidence from Japanese Firms</h3> <span style="font-weight: normal;"> with Miki Kohara</span>
-
+<h3>Does Transparency Reduce Gender Inequality in the Workplace? Evidence from Japanese Firms</h3>
+* Co-author: Miki Kohara
 
 
 <!--- 
