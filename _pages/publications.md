@@ -8,7 +8,7 @@ author_profile: true
 
 # Working Papers
 
-### Policy for Closing Education Gaps Across Gender and Culture: Tuition-Free Education or School Construction 
+### Policy for Closing Education Gaps Across Gender and Culture: Tuition-Free Education or School Construction?
 * Presentations: RES PhD Conference, Stockholm U, PSE-CEPR Policy Forum, UCL-Stone Research Day, U Osaka, Kobe U, U Luxembourg Workshop of Gender and Economics, U Osaka ISER (scheduled)<br>
 * Award: Kanematsu Prize, Kobe U, Japan, 2025  
 <details class="abstract">
@@ -40,7 +40,7 @@ author_profile: true
 ### Gendered Trade-off Between Schooling and Household Labor
 * Presentations: AASLE Bangkok, Stone Centre Conference on Education and Inequality
 
-<h3>Does Transparency Reduce Gender Inequality in the Workplace? Evidence from Japanese Firms</h3>
+### Does Transparency Reduce Gender Inequality in the Workplace? Evidence from Japanese Firms
 * Co-author: Miki Kohara
 
 
