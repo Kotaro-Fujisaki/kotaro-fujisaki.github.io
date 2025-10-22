@@ -8,9 +8,9 @@ author_profile: true
 
 # Working Papers
 
-### Policy for Closing Education Gaps Across Gender and Culture: Tuition-Free Education or School Construction?
-* Presentations: RES PhD Conference, Stockholm U, PSE-CEPR Policy Forum, UCL-Stone Research Day, U Osaka, Kobe U, U Luxembourg Workshop of Gender and Economics, U Osaka ISER (scheduled)<br>
-* Award: Kanematsu Prize, Kobe U, Japan, 2025  
+### Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?
+* Presentations: RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; U Osaka ISER (scheduled)<br>
+* Award: Kanematsu Prize, Kobe University, Japan, 2025  
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
@@ -22,7 +22,7 @@ author_profile: true
 # Work in Progress
 
 ### Corporate Social Responsibility, Firm Performance, and Environment: Evidence from Mandatory CSR in Indonesia
-* Presentations: U Osaka, UCL, Young JADE Conference (scheduled)
+* Presentations: U Osaka; UCL; Hitotsubashi U, Young JADE Conference (scheduled); IDE-JETRO, JSIE Next Generation Workshop (scheduled)
 * Grant: Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
@@ -38,7 +38,7 @@ author_profile: true
 * Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
 
 ### Gendered Trade-off Between Schooling and Household Labor
-* Presentations: AASLE Bangkok, Stone Centre Conference on Education and Inequality
+* Presentations: AASLE Bangkok; UCL, Stone Centre Conference on Education and Inequality
 
 ### Does Transparency Reduce Gender Inequality in the Workplace? Evidence from Japanese Firms
 * Co-author: Miki Kohara
