@@ -14,7 +14,7 @@ author_profile: true
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
-  This paper examines what types of education policies can effectively serve underrepresented groups, given a local culture in a developing country. Using a regression discontinuity design, it shows that Indonesia’s Free Primary Education (FPE) program, which abolished primary school tuition fees in 1977–1978, improved historically low female educational attainment. These educational gains also reduced child marriage and raised future earnings. Unlike the concurrent school construction program, FPE was equally effective in communities lacking bride price custom. In culturally low-demand settings, tuition removal can more effectively promote female education than supply-side interventions, helping to close education gaps across both gender and culture.  
+  This paper examines what types of education policies can effectively serve underrepresented groups, given local culture in developing countries. Using a regression discontinuity design, it shows that Indonesia’s Free Primary Education (FPE) program, which abolished primary school tuition fees in 1977–1978, improved historically low female educational attainment. These educational gains also reduced child marriage and raised future earnings. Unlike the concurrent school construction program, FPE was equally effective in communities without a bride price custom. In culturally low-demand settings, tuition removal can more effectively promote female education than supply-side interventions, helping to close education gaps across gender and culture. 
   
 </details>
 <br>
