@@ -6,18 +6,20 @@ author_profile: true
 
 {% include base_path %}
 
-# Working Papers
+# Working Paper
 
-### Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?
+### <a href="https://kotaro-fujisaki.github.io/files/20251110_PfCEG.pdf" target="_blank" rel="noopener">Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?</a>
 * Presentations: RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; U Osaka ISER (scheduled)<br>
 * Award: Kanematsu Prize, Kobe University, Japan, 2025  
+* Citation: Fujisaki, K. (2025) “Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?”, RIEB Discussion Paper Series No.2025-16 [<a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2025-16.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">DP</a>]
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
-  This paper examines what types of education policies can effectively serve underrepresented groups, given local culture in developing countries. Using a regression discontinuity design, it shows that Indonesia’s Free Primary Education (FPE) program, which abolished primary school tuition fees in 1977–1978, improved historically low female educational attainment. These educational gains also reduced child marriage and raised future earnings. Unlike the concurrent school construction program, FPE was equally effective in communities without a bride price custom. In culturally low-demand settings, tuition removal can more effectively promote female education than supply-side interventions, helping to close education gaps across gender and culture. 
+  Education policies commonly fall into two categories: cost/demand-side and supply-side interventions. This paper examines which approach more effectively serves underrepresented groups, taking local culture into account. Using a regression discontinuity design, it shows that Indonesia’s Free Primary Education (FPE) program, which abolished primary school tuition fees in 1977–1978, improved previously low female educational attainment. These educational gains also reduced child marriage and raised future earnings. Unlike the concurrent school construction program, FPE was equally effective across communities, irrespective of whether bride price is practiced. Absent institutions raising demand for girls' schooling, tuition removal can be more effective in promoting female education than supply-side interventions, thereby reducing gender gaps across cultural contexts.
   
 </details>
 <br>
+
 
 # Work in Progress
 
