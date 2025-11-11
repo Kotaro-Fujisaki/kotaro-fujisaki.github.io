@@ -11,7 +11,7 @@ author_profile: true
 ### <a href="https://kotaro-fujisaki.github.io/files/20251110_PfCEG.pdf" target="_blank" rel="noopener">Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?</a>
 * Presentations: RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; U Osaka ISER (scheduled)<br>
 * Award: Kanematsu Prize, Kobe University, Japan, 2025  
-* Citation: Fujisaki, K. (2025) “Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?”, RIEB Discussion Paper Series No.2025-16 [<a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2025-16.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">DP</a>]
+* Citation: Fujisaki, K. (2025) “Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?”, RIEB Discussion Paper Series No.2025-16 <a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2025-16.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">DP</a>
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
