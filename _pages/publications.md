@@ -10,7 +10,7 @@ author_profile: true
 
 ### <a href="https://kotaro-fujisaki.github.io/files/20251110_PfCEG.pdf" target="_blank" rel="noopener">Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?</a>
 * Presentations: RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; U Osaka ISER<br>
-* Awards: Moriguchi Prize Runner-up, U Osaka ISER, Japan, 2025 <a href="https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">Link</a>; Kanematsu Prize, Kobe University, Japan, 2025 <a href="https://www.rieb.kobe-u.ac.jp/edu-society/kanematsu_prize/prize_thesis.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">Link</a>
+* Awards: Moriguchi Prize Runner-up, U Osaka ISER, Japan, 2025 <a href="https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">Link</a>; Kanematsu Prize, Kobe U, Japan, 2025 <a href="https://www.rieb.kobe-u.ac.jp/edu-society/kanematsu_prize/prize_thesis.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">Link</a>
 * Citation: Fujisaki, K. (2025) “Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?”, RIEB Discussion Paper Series No.2025-16 <a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2025-16.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">DP</a>
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
@@ -24,7 +24,7 @@ author_profile: true
 # Work in Progress
 
 ### Corporate Social Responsibility, Firm Performance, and Environment: Evidence from Mandatory CSR in Indonesia
-* Presentations: U Osaka; UCL; IDE-JETRO, JSIE Next Generation Workshop (12 Dec, 2025); Hitotsubashi U, Young JADE Conference (13 Dec, 2025)
+* Presentations: U Osaka; UCL; IDE-JETRO, JSIE Next Generation Workshop; Hitotsubashi U, Young JADE Conference
 * Grant: Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
@@ -36,14 +36,14 @@ author_profile: true
 ### Minimum Wage Implementation and Labour Market Dynamics: Regional versus Occupational Targeting
 * Grant: Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26
 
-### First Steps in Eradicating Child Labor: Sectoral Bans and Education Expansion in Cambodia
+### A First Step Toward Eradicating Child Labor: Hazardous-Sector Child-Labor Bans in Cambodia
 * Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
-* Presentations: Hitotsubashi U (16 Dec, 2025)
+* Presentations: Hitotsubashi U
 
 ### Gendered Trade-off Between Schooling and Household Labor
 * Presentations: AASLE Bangkok; UCL, Stone Centre Conference on Education and Inequality
 
-### Does Transparency Reduce Gender Inequality in the Workplace? Evidence from Japanese Firms
+### Does Transparency Reduce Workplace Gender Inequality? Evidence from Japanese Firms
 * Co-author: Miki Kohara
 
 
