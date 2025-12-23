@@ -11,7 +11,5 @@ I am a fourth-year PhD student in Economics at University College London (UCL).
 
 I study development and labour economics, with a primary focus on Asia. 
 
-My research interests include:
-1. Policy design and public goods provision in developing country contexts;
-2. How social/cultural norms shape the behaviour of individuals and firms;
-3. Occupational sorting shaped by wages and non-wage amenities.
+My research interest is how norms—from cultural traditions to modern social norms—shape (A) individual and firm behavior and (B) policy effectiveness.
+
