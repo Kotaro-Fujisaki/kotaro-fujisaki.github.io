@@ -33,12 +33,15 @@ author_profile: true
 </details>
 <br>
 
+### Employer Diversity Signals and Match Quality in Job Search
+* Co-authors: Yumi Ishikawa, Miki Kohara, Yanni Shen
+
 ### Minimum Wage Implementation and Labour Market Dynamics: Regional versus Occupational Targeting
 * Grant: Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26
 
-### A First Step Toward Eradicating Child Labor: Hazardous-Sector Child-Labor Bans in Cambodia
-* Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
+### First Step Toward Eradicating Child Labor: Hazardous-Sector Child-Labor Ban in Cambodia
 * Presentations: Hitotsubashi U
+* Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
 
 ### Gendered Trade-off Between Schooling and Household Labor
 * Presentations: AASLE Bangkok; UCL, Stone Centre Conference on Education and Inequality
