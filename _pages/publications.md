@@ -8,7 +8,7 @@ author_profile: true
 
 # Working Paper
 
-### <a href="https://kotaro-fujisaki.github.io/files/20251110_PfCEG.pdf" target="_blank" rel="noopener">Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?</a>
+### <a href="https://kotaro-fujisaki.github.io/files/PfCEG_20260103.pdf" target="_blank" rel="noopener">Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?</a>
 * Presentations: RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; U Osaka ISER<br>
 * Awards: Moriguchi Prize Runner-up, U Osaka ISER, Japan, 2025 <a href="https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">Link</a>; Kanematsu Prize, Kobe U, Japan, 2025 <a href="https://www.rieb.kobe-u.ac.jp/edu-society/kanematsu_prize/prize_thesis.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">Link</a>
 <!---* Citation: Fujisaki, K. (2025) “Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?”, RIEB Discussion Paper Series No.2025-16 <a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2025-16.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">DP</a>-->
@@ -23,24 +23,33 @@ author_profile: true
 
 # Work in Progress
 
-### Corporate Social Responsibility, Firm Performance, and Environment: Evidence from Mandatory CSR in Indonesia
+### Corporate Social Responsibility, Production, and Environment: Evidence from Mandatory CSR in Indonesia
 * Presentations: U Osaka; UCL; IDE-JETRO, JSIE Next Generation Workshop; Hitotsubashi U, Young JADE Conference
 * Grant: Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
-  Corporate social responsibility (CSR) is the integration of social, environmental, and ethical values into business practices. This paper studies its effects on firms’ profits, production, and environmental outcomes in Indonesia. To address endogeneity in CSR adoption, I exploit the country’s legal requirement that limited-liability firms in natural-resource–related industries implement CSR activities. A triple-difference design shows that the mandate improved environmental performance by reducing the use of polluting fuels. Effects are larger for firms with stronger community-based relational incentives, particularly those relying on locally sourced private capital. The fuel shift involved a reallocation of expenditures but did not affect profits, output, total revenue, or total expenses. Village–firm matched data corroborate a decline in reported pollution incidents around obligated firms. Even without strong enforcement, legal CSR requirements can complement traditional environmental regulation when firms are embedded in local networks that provide additional CSR incentives.  
+  Corporate social responsibility (CSR) integrates social, environmental, and ethical values into business practices. This paper studies its effects on firms’ production, profits, and environmental outcomes. To address endogeneity in CSR adoption, I exploit Indonesia’s mandate requiring CSR implementation among limited-liability firms in natural-resource-related industries. Treated firms expanded CSR and environmental information disclosure, consistent with the policy’s environmental preservation aim. A triple-difference design shows that treated firms improved environmental performance ratings and reduced carbon emissions by decreasing coal use and substituting toward LPG. The fuel shift involved expenditure reallocation but did not affect profits, output, revenue, or total expenses. Effects are larger for firms with stronger community-based relational incentives, particularly middle-aged firms sourcing capital domestically and privately. Village-firm matched data corroborate declining pollution incidents around treated firms. Legal CSR requirements can act as environmental regulation when firms are embedded in local networks that provide additional CSR incentives.  
+  
 </details>
 <br>
 
 ### Employer Diversity Signals and Match Quality in Job Search
 * Co-authors: Yumi Ishikawa, Miki Kohara, Yanni Shen
+* Presentation: UCL
+<details class="abstract">
+  <summary><strong>Abstract</strong></summary>
+  
+  How does information about workplace diversity shape job application decisions and employer-employee match quality? We study this question using data from an international job fair where university students from Southeast Asia meet Japanese recruiting firms. Firms providing more information about workplace diversity in their presentations and brochures attract greater application interest. We construct a unique measure of match quality across firm-student pairs, including unrealized matches, and show that the effects of diversity information are stronger for higher-quality potential matches, where skill demand and supply are better aligned. These effects are driven by female job seekers, who display greater interest in diversity information, interpret it as a signal of better promotion prospects and a more productive workplace, and exhibit higher willingness to pay for gender-diverse workplaces. Diversity operates as a non-pay amenity valued particularly by women and can enhance match quality by altering applicant pool composition.
+  
+</details>
+<br>
 
 ### Regional vs. Sectoral Minimum Wage Implementation
 * Grant: Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26
 
 ### First Step Toward Eradicating Child Labor: Hazardous-Sector Child-Labor Ban in Cambodia
-* Presentations: Hitotsubashi U
+* Presentation: Hitotsubashi U
 * Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
 
 ### Gendered Trade-off Between Schooling and Household Labor
