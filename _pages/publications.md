@@ -48,7 +48,7 @@ author_profile: false
 ### Regional vs. Sectoral Minimum Wage Implementation
 * Grant: Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26
 
-### First Step Toward Eradicating Child Labor: Hazardous-Sector Child-Labor Ban in Cambodia
+### First Step Toward Eliminating Child Labor: Hazardous-Sector Child-Labor Ban in Cambodia
 * Presentation: Hitotsubashi U
 * Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
 
