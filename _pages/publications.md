@@ -29,7 +29,7 @@ author_profile: false
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
-  Corporate social responsibility (CSR) integrates social, environmental, and ethical values into business practices. This paper studies its effects on firms’ production, profits, and environmental outcomes. To address endogeneity in CSR adoption, I exploit Indonesia’s mandate requiring CSR implementation among limited-liability firms in natural-resource-related industries. Treated firms expanded CSR and environmental information disclosure, consistent with the policy’s environmental preservation aim. A triple-difference design shows that treated firms improved environmental performance ratings and reduced carbon emissions by decreasing coal use and substituting toward LPG. The fuel shift involved expenditure reallocation but did not affect profits, output, revenue, or total expenses. Effects are larger for firms with stronger community-based relational incentives, particularly middle-aged firms sourcing capital domestically and privately. Village-firm matched data corroborate declining pollution incidents around treated firms. Legal CSR requirements can act as environmental regulation when firms are embedded in local networks that provide additional CSR incentives.  
+  Corporate social responsibility (CSR) integrates social, environmental, and ethical values into business practices. This paper studies its effects on firms’ production, profits, and environmental outcomes. To address endogeneity in CSR adoption, I exploit Indonesia’s mandate requiring CSR implementation among limited-liability firms in natural-resource-related industries. Treated firms expanded CSR and environmental information disclosure, consistent with the policy’s environmental preservation aim. A triple-difference design shows that treated firms improved environmental performance ratings and reduced carbon emissions by decreasing coal use and substituting toward LPG. The fuel shift involved expenditure reallocation but did not affect profits, output, revenue, or total expenses. Effects are larger for firms with stronger community-based relational incentives, particularly middle-aged firms sourcing capital domestically and privately. Satellite imagery and village-firm matched data indicate reduced local PM2.5 concentrations and fewer reported pollution incidents around treated firms. Legal CSR requirements can act as environmental regulation when firms are embedded in local networks that provide additional CSR incentives.
   
 </details>
 <br>
@@ -45,12 +45,12 @@ author_profile: false
 </details>
 <br>
 
-### Regional vs. Sectoral Minimum Wage Implementation
-* Grant: Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26
-
 ### First Step Toward Eliminating Child Labor: Hazardous-Sector Child-Labor Ban in Cambodia
 * Presentation: Hitotsubashi U
 * Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
+  
+### Regional vs. Sectoral Minimum Wage Implementation
+* Grant: Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26
 
 ### Gendered Trade-off Between Schooling and Household Labor
 * Presentations: AASLE Bangkok; UCL, Stone Centre Conference on Education and Inequality
