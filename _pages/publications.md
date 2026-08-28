@@ -51,7 +51,7 @@ author_profile: false
 
 ### Affirmative Action for the Ethnic Majority
 * Co-author: Rio Ikeuchi
-* Presentation: <a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a> ANU, Australia (10 September, 2026)
+* Presentation: <a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a>, Australia (10 September, 2026)
 
 ### Hazardous Child Labor Ban and Substitution to Non-Hazardous Work and Education
 * Co-author: Yuma Noritomo
