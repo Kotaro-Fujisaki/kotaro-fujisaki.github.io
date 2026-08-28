@@ -46,7 +46,7 @@ author_profile: false
 <br>
 
 ### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture in Cambodia
-* Presentation: SSE, Sweden (19 October, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2027)
+* Presentations: SSE, Sweden (19 October, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2027)
 * Grant: Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27
 
 ### Affirmative Action for the Ethnic Majority
