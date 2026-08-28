@@ -9,7 +9,7 @@ author_profile: false
 # Working Paper
 
 ### <a href="https://kotaro-fujisaki.github.io/files/PfCEG_20260103.pdf" target="_blank" rel="noopener">Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?</a>
-* Presentations: RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; U Osaka ISER<br>
+* Presentations: RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; ISER, U Osaka; HKUST, Asian Economic Development Conference <br>
 * Awards: Moriguchi Prize Runner-up, U Osaka ISER, Japan, 2025 <a href="https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">Link</a>; Kanematsu Prize, Kobe U, Japan, 2025 <a href="https://www.rieb.kobe-u.ac.jp/edu-society/kanematsu_prize/prize_thesis.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">Link</a>
 <!---* Citation: Fujisaki, K. (2025) “Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?”, RIEB Discussion Paper Series No.2025-16 <a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2025-16.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">DP</a>-->
 <details class="abstract">
@@ -24,7 +24,7 @@ author_profile: false
 # Work in Progress
 
 ### Corporate Social Responsibility, Production, and Environment: Evidence from Mandatory CSR in Indonesia
-* Presentations: U Osaka; UCL; IDE-JETRO, JSIE Next Generation Workshop; Hitotsubashi U, Young JADE Conference
+* Presentations: U Osaka; UCL; IDE-JETRO, JSIE Next Generation Workshop; Hitotsubashi U, Young JADE Conference; INSEAD, SIOE Conference
 * Grant: Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
@@ -45,7 +45,16 @@ author_profile: false
 </details>
 <br>
 
-### First Step Toward Eliminating Child Labor: Hazardous-Sector Child-Labor Ban in Cambodia
+### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture in Cambodia
+* Presentation: SSE, Sweden (19 October, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2026)
+* Grant: Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27
+
+### Affirmative Action for the Ethnic Majority
+* Co-author: Rio Ikeuchi
+* Presentation: <a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a> ANU, Australia (10 September, 2026)
+
+### Hazardous Child Labor Ban and Substitution to Non-Hazardous Work and Education
+* Co-author: Yuma Noritomo
 * Presentation: Hitotsubashi U
 * Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
   
