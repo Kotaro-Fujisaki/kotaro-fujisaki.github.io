@@ -12,7 +12,7 @@ I am a fourth-year PhD student in Economics at University College London (UCL).
 I study development and labour economics, with a primary focus on Asia. 
 
 My research themes include:
-(A) Firms in developing countries;
+(A) Production in developing countries;
 (B) Human capital accumulation in developing countries;
 (C) Interactions between norms and policies.
 
