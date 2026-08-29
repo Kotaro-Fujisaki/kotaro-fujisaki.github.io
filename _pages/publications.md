@@ -51,7 +51,6 @@ author_profile: false
   Education policies commonly fall into two categories: cost/demand-side and supply-side interventions. This paper examines which approach more effectively serves underrepresented groups, taking local culture into account. Using a regression discontinuity design, it shows that Indonesia’s Free Primary Education (FPE) program, which abolished primary school tuition fees in 1977–1978, improved previously low female educational attainment. These educational gains also reduced child marriage and raised future earnings. Unlike the concurrent school construction program, FPE was equally effective across communities, irrespective of whether bride price is practiced. Absent institutions raising demand for girls' schooling, tuition removal can be more effective in promoting female education than supply-side interventions, thereby reducing gender gaps across cultural contexts.
   
 </details>
-<br>
 
 
 # Work in Progress
@@ -74,7 +73,6 @@ author_profile: false
   Corporate social responsibility (CSR) integrates social, environmental, and ethical values into business practices. This paper studies its effects on firms’ production, profits, and environmental outcomes. To address endogeneity in CSR adoption, I exploit Indonesia’s mandate requiring CSR implementation among limited-liability firms in natural-resource-related industries. Treated firms expanded CSR and environmental information disclosure, consistent with the policy’s environmental preservation aim. A triple-difference design shows that treated firms improved environmental performance ratings and reduced carbon emissions by decreasing coal use and substituting toward LPG. The fuel shift involved expenditure reallocation but did not affect profits, output, revenue, or total expenses. Effects are larger for firms with stronger community-based relational incentives, particularly middle-aged firms sourcing capital domestically and privately. Satellite imagery and village-firm matched data indicate reduced local PM2.5 concentrations and fewer reported pollution incidents around treated firms. Legal CSR requirements can act as environmental regulation when firms are embedded in local networks that provide additional CSR incentives.
   
 </details>
-<br>
 
 ### Employer Diversity Signals and Match Quality in Job Search
 with Yumi Ishikawa, Miki Kohara, Yanni Shen
@@ -91,7 +89,6 @@ with Yumi Ishikawa, Miki Kohara, Yanni Shen
   How does information about workplace diversity shape job application decisions and employer-employee match quality? We study this question using data from an international job fair where university students from Southeast Asia meet Japanese recruiting firms. Firms providing more information about workplace diversity in their presentations and brochures attract greater application interest. We construct a unique measure of match quality across firm-student pairs, including unrealized matches, and show that the effects of diversity information are stronger for higher-quality potential matches, where skill demand and supply are better aligned. These effects are driven by female job seekers, who display greater interest in diversity information, interpret it as a signal of better promotion prospects and a more productive workplace, and exhibit higher willingness to pay for gender-diverse workplaces. Diversity operated as a non-pay amenity valued particularly by women and enhanced match quality by altering applicant pool composition in our context.
   
 </details>
-<br>
 
 ### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture
 
@@ -104,7 +101,6 @@ with Yumi Ishikawa, Miki Kohara, Yanni Shen
   <summary><strong>Grant</strong></summary>
   <p>Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27</p>
 </details>
-<br>
 
 ### Affirmative Action for the Ethnic Majority
 with Rio Ikeuchi
@@ -114,7 +110,6 @@ with Rio Ikeuchi
   <summary><strong>Presentation</strong></summary>
   <p><a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a>, Australia (10 September, 2026)</p>
 </details>
-<br>
 
 ### Banning Hazardous Child Labor: Substitution into Safer Work and Schooling
 with Yuma Noritomo
@@ -129,7 +124,6 @@ with Yuma Noritomo
   <summary><strong>Grant</strong></summary>
   <p>Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26</p>
 </details>
-<br>
   
 ### Regional vs. Sectoral Minimum Wage Implementation
 
@@ -137,7 +131,6 @@ with Yuma Noritomo
   <summary><strong>Grant</strong></summary>
   <p>Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26</p>
 </details>
-<br>
 
 ### Gendered Trade-off Between Schooling and Household Labor
 
@@ -145,7 +138,6 @@ with Yuma Noritomo
   <summary><strong>Presentations</strong></summary>
   <p>AASLE Bangkok; UCL, Stone Centre Conference on Education and Inequality</p>
 </details>
-<br>
 
 ### Does Transparency Reduce Workplace Gender Inequality? Evidence from Japanese Firms
 with Miki Kohara
