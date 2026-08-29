@@ -53,7 +53,7 @@ author_profile: false
 * Co-author: Rio Ikeuchi
 * Presentation: <a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a>, Australia (10 September, 2026)
 
-### Banning Hazardous Child Labor and Substitution into Non-Hazardous Work and Schooling
+### Banning Hazardous Child Labor: Substitution into Safer Work and Schooling
 * Co-author: Yuma Noritomo
 * Presentation: Hitotsubashi U
 * Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
