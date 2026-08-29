@@ -93,7 +93,7 @@ with Yumi Ishikawa, Miki Kohara, Yanni Shen
 </details>
 <br>
 
-### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture in Cambodia
+### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture
 
 <details class="abstract">
   <summary><strong>Presentations</strong></summary>
