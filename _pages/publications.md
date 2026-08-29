@@ -6,12 +6,45 @@ author_profile: false
 
 {% include base_path %}
 
+<style>
+  /* Reduce all font sizes on this page by ~2pt uniformly */
+  html {
+    font-size: calc(100% - 2pt);
+  }
+
+  /* Tighten the gap between a paper title and the coauthor line below it */
+  h3 {
+    margin-bottom: 4px;
+  }
+
+  .coauthors {
+    margin-top: 0;
+    margin-bottom: 6px;
+    color: #767676;
+    font-size: 0.85em;
+    font-weight: normal;
+  }
+
+  .abstract p {
+    font-size: 0.85em;
+  }
+</style>
+
 # Working Paper
 
 ### <a href="https://kotaro-fujisaki.github.io/files/PfCEG_20260103.pdf" target="_blank" rel="noopener">Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?</a>
-* Presentations: RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; ISER, U Osaka; HKUST, Asian Economic Development Conference <br>
-* Awards: <a href="https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners" target="_blank" rel="noopener">Moriguchi Prize Runner-up</a>, U Osaka ISER, Japan, 2025; <a href="https://www.rieb.kobe-u.ac.jp/edu-society/kanematsu_prize/prize_thesis.html" target="_blank" rel="noopener">Kanematsu Prize</a>, Kobe U, Japan, 2025 
+
+<details class="abstract">
+  <summary><strong>Presentations</strong></summary>
+  <p>RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; ISER, U Osaka; HKUST, Asian Economic Development Conference</p>
+</details>
+
+<details class="abstract">
+  <summary><strong>Awards</strong></summary>
+  <p><a href="https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners" target="_blank" rel="noopener">Moriguchi Prize Runner-up</a>, U Osaka ISER, Japan, 2025; <a href="https://www.rieb.kobe-u.ac.jp/edu-society/kanematsu_prize/prize_thesis.html" target="_blank" rel="noopener">Kanematsu Prize</a>, Kobe U, Japan, 2025</p>
+</details>
 <!---* Citation: Fujisaki, K. (2025) “Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?”, RIEB Discussion Paper Series No.2025-16 <a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2025-16.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">DP</a>-->
+
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
@@ -24,8 +57,17 @@ author_profile: false
 # Work in Progress
 
 ### Corporate Social Responsibility, Production, and Environment: Evidence from Mandatory CSR in Indonesia
-* Presentations: U Osaka; UCL; IDE-JETRO, JSIE Next Generation Workshop; Hitotsubashi U, Young JADE Conference; INSEAD, SIOE Conference
-* Grant: Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25
+
+<details class="abstract">
+  <summary><strong>Presentations</strong></summary>
+  <p>U Osaka; UCL; IDE-JETRO, JSIE Next Generation Workshop; Hitotsubashi U, Young JADE Conference; INSEAD, SIOE Conference</p>
+</details>
+
+<details class="abstract">
+  <summary><strong>Grant</strong></summary>
+  <p>Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25</p>
+</details>
+
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
 
@@ -35,8 +77,14 @@ author_profile: false
 <br>
 
 ### Employer Diversity Signals and Match Quality in Job Search
-* Co-authors: Yumi Ishikawa, Miki Kohara, Yanni Shen
-* Presentation: UCL
+with Yumi Ishikawa, Miki Kohara, Yanni Shen
+{: .coauthors}
+
+<details class="abstract">
+  <summary><strong>Presentation</strong></summary>
+  <p>UCL</p>
+</details>
+
 <details class="abstract">
   <summary><strong>Abstract</strong></summary>
   
@@ -46,26 +94,62 @@ author_profile: false
 <br>
 
 ### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture in Cambodia
-* Presentations: SSE, Sweden (19 October, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2027)
-* Grant: Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27
+
+<details class="abstract">
+  <summary><strong>Presentations</strong></summary>
+  <p>SSE, Sweden (19 October, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2027)</p>
+</details>
+
+<details class="abstract">
+  <summary><strong>Grant</strong></summary>
+  <p>Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27</p>
+</details>
+<br>
 
 ### Affirmative Action for the Ethnic Majority
-* Co-author: Rio Ikeuchi
-* Presentation: <a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a>, Australia (10 September, 2026)
+with Rio Ikeuchi
+{: .coauthors}
+
+<details class="abstract">
+  <summary><strong>Presentation</strong></summary>
+  <p><a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a>, Australia (10 September, 2026)</p>
+</details>
+<br>
 
 ### Banning Hazardous Child Labor: Substitution into Safer Work and Schooling
-* Co-author: Yuma Noritomo
-* Presentation: Hitotsubashi U
-* Grant: Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26
+with Yuma Noritomo
+{: .coauthors}
+
+<details class="abstract">
+  <summary><strong>Presentation</strong></summary>
+  <p>Hitotsubashi U</p>
+</details>
+
+<details class="abstract">
+  <summary><strong>Grant</strong></summary>
+  <p>Approx. 3,000 GBP, Labor Research Center, Japan, 2025-26</p>
+</details>
+<br>
   
 ### Regional vs. Sectoral Minimum Wage Implementation
-* Grant: Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26
+
+<details class="abstract">
+  <summary><strong>Grant</strong></summary>
+  <p>Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26</p>
+</details>
+<br>
 
 ### Gendered Trade-off Between Schooling and Household Labor
-* Presentations: AASLE Bangkok; UCL, Stone Centre Conference on Education and Inequality
+
+<details class="abstract">
+  <summary><strong>Presentations</strong></summary>
+  <p>AASLE Bangkok; UCL, Stone Centre Conference on Education and Inequality</p>
+</details>
+<br>
 
 ### Does Transparency Reduce Workplace Gender Inequality? Evidence from Japanese Firms
-* Co-author: Miki Kohara
+with Miki Kohara
+{: .coauthors}
 
 
 <!--- 
@@ -92,4 +176,4 @@ Presentations: AASLE Taipei, UCL
   {% include archive-single.html %}
 {% endfor %}
 
- -->
+ --></parameter>
