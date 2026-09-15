@@ -90,6 +90,22 @@ with Yumi Ishikawa, Miki Kohara, Yanni Shen
   
 </details>
 
+### Affirmative Action for the Ethnic Majority
+with Rio Ikeuchi
+{: .coauthors}
+
+<details class="abstract">
+  <summary>Presentation</summary>
+  <p><a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a>, Australia (10 September, 2026)</p>
+</details>
+
+<details class="abstract">
+  <summary>Abstract</summary>
+  
+  Affirmative action research has focused almost exclusively on policies targeting disadvantaged ethnic minorities, leaving open how such policies operate when they instead target the majority. We study Malaysia's New Economic Policy (NEP, 1971–1990), which granted the Malay majority preferential access to university admissions, public-sector employment, and corporate ownership. Using a cohort-based difference-in-differences design, we find that Malay cohorts exposed to the NEP acquired more years of education and were more likely to enter skilled occupations. Applying a structural model, we estimate that improved talent allocation during the NEP period raised GDP per capita by around 10\%, driven primarily by reduced frictions in human capital accumulation rather than in the labor market. Our findings suggest that affirmative action targeting the majority can shift talent allocation, with implications for economic growth.
+  
+</details>
+
 ### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture
 
 <details class="abstract">
@@ -100,15 +116,6 @@ with Yumi Ishikawa, Miki Kohara, Yanni Shen
 <details class="abstract">
   <summary>Grant</summary>
   <p>Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27</p>
-</details>
-
-### Affirmative Action for the Ethnic Majority
-with Rio Ikeuchi
-{: .coauthors}
-
-<details class="abstract">
-  <summary>Presentation</summary>
-  <p><a href="https://rse.anu.edu.au/events/asian-perspective-seminar-kotaro-fujisaki-university-college-london" target="_blank" rel="noopener">ANU</a>, Australia (10 September, 2026)</p>
 </details>
 
 ### Banning Hazardous Child Labor: Substitution into Safer Work and Schooling
@@ -132,6 +139,7 @@ with Yuma Noritomo
   <p>Approx. 1,500 GBP, KIER Foundation, Kyoto University, Japan, 2025-26</p>
 </details>
 
+<!---
 ### Gendered Trade-off Between Schooling and Household Labor
 
 <details class="abstract">
@@ -142,7 +150,7 @@ with Yuma Noritomo
 ### Does Transparency Reduce Workplace Gender Inequality? Evidence from Japanese Firms
 with Miki Kohara
 {: .coauthors}
-
+--->
 
 <!--- 
 ### Presentation Experiences
