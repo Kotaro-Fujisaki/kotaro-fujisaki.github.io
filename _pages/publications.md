@@ -55,6 +55,18 @@ author_profile: false
 
 # Work in Progress
 
+### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture
+
+<details class="abstract">
+  <summary>Presentations</summary>
+  <p>SSE, Sweden (19 October, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2027); <a href="https://avivihadar.github.io/brownbag/" target="_blank" rel="noopener">UCL</a>, UK (15 March, 2027)</p>
+</details>
+
+<details class="abstract">
+  <summary>Grant</summary>
+  <p>Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27</p>
+</details>
+
 ### Corporate Social Responsibility, Production, and Environment: Evidence from Mandatory CSR in Indonesia
 
 <details class="abstract">
@@ -104,18 +116,6 @@ with Rio Ikeuchi
   
   Affirmative action research has focused almost exclusively on policies targeting disadvantaged ethnic minorities, leaving open how such policies operate when they instead target the majority. We study Malaysia's New Economic Policy (NEP, 1971–1990), which granted the Malay majority preferential access to university admissions, public-sector employment, and corporate ownership. Using a cohort-based difference-in-differences design, we find that Malay cohorts exposed to the NEP acquired more years of education and were more likely to enter skilled occupations. Applying a structural model, we estimate that improved talent allocation during the NEP period raised GDP per capita by around 10%, driven primarily by reduced frictions in human capital accumulation rather than in the labor market. Our findings suggest that affirmative action targeting the majority can shift talent allocation, with implications for economic growth.
   
-</details>
-
-### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture
-
-<details class="abstract">
-  <summary>Presentations</summary>
-  <p>SSE, Sweden (19 October, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2027)</p>
-</details>
-
-<details class="abstract">
-  <summary>Grant</summary>
-  <p>Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27</p>
 </details>
 
 ### Banning Hazardous Child Labor: Substitution into Safer Work and Schooling
