@@ -56,6 +56,8 @@ author_profile: false
 # Work in Progress
 
 ### Development by Concession? State-Led Expansion and Reversal of Plantation Agriculture
+(JMP in progress)
+{: .coauthors}
 
 <details class="abstract">
   <summary>Presentations</summary>
