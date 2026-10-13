@@ -33,16 +33,18 @@ author_profile: false
 # Working Paper
 
 ### <a href="https://kotaro-fujisaki.github.io/files/PfCEG_20260103.pdf" target="_blank" rel="noopener">Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?</a>
+<p><a href="https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners" target="_blank" rel="noopener">Moriguchi Prize Runner-up</a>, 2025; <a href="https://www.rieb.kobe-u.ac.jp/edu-society/kanematsu_prize/prize_thesis.html" target="_blank" rel="noopener">Kanematsu Prize</a>, 2025</p>
+{: .coauthors}
 
 <details class="abstract">
   <summary>Presentations</summary>
   <p>RES PhD Conference; Stockholm U; PSE-CEPR Policy Forum; UCL-Stone Research Day; U Osaka; Kobe U; U Luxembourg, Workshop of Gender and Economics; ISER, U Osaka; HKUST, Asian Economic Development Conference</p>
 </details>
 
-<details class="abstract">
+<!---<details class="abstract">
   <summary>Awards</summary>
   <p><a href="https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners" target="_blank" rel="noopener">Moriguchi Prize Runner-up</a>, U Osaka ISER, Japan, 2025; <a href="https://www.rieb.kobe-u.ac.jp/edu-society/kanematsu_prize/prize_thesis.html" target="_blank" rel="noopener">Kanematsu Prize</a>, Kobe U, Japan, 2025</p>
-</details>
+</details>-->
 <!---* Citation: Fujisaki, K. (2025) “Policy for Closing Education Gaps across Gender and Culture: Tuition-Free Education or School Construction?”, RIEB Discussion Paper Series No.2025-16 <a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2025-16.html" target="_blank" rel="noopener" class="btn" style="margin-left:6px;padding:2px 8px;border:1px solid #ccc;border-radius:4px;text-decoration:none;display:inline-block;line-height:1.2;">DP</a>-->
 
 <details class="abstract">
@@ -77,15 +79,15 @@ author_profile: false
 </details>
 
 <details class="abstract">
-  <summary>Grant</summary>
-  <p>Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25</p>
-</details>
-
-<details class="abstract">
   <summary>Abstract</summary>
 
   Corporate social responsibility (CSR) integrates social, environmental, and ethical values into business practices. This paper studies its effects on firms’ production, profits, and environmental outcomes. To address endogeneity in CSR adoption, I exploit Indonesia’s mandate requiring CSR implementation among limited-liability firms in natural-resource-related industries. Treated firms expanded CSR and environmental information disclosure, consistent with the policy’s environmental preservation aim. A triple-difference design shows that treated firms improved environmental performance ratings and reduced carbon emissions by decreasing coal use and substituting toward LPG. The fuel shift involved expenditure reallocation but did not affect profits, output, revenue, or total expenses. Effects are larger for firms with stronger community-based relational incentives, particularly middle-aged firms sourcing capital domestically and privately. Satellite imagery and village-firm matched data indicate reduced local PM2.5 concentrations and fewer reported pollution incidents around treated firms. Legal CSR requirements can act as environmental regulation when firms are embedded in local networks that provide additional CSR incentives.
   
+</details>
+
+<details class="abstract">
+  <summary>Grant</summary>
+  <p>Approx. 5,000 GBP, Mishima Kaiun Memorial Foundation, Japan, 2024-25</p>
 </details>
 
 ### Employer Diversity Signals and Match Quality in Job Search
