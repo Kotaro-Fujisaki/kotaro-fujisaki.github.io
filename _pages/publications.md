@@ -63,7 +63,7 @@ author_profile: false
 
 <details class="abstract">
   <summary>Presentations</summary>
-  <p>SSE, Sweden (19 October, 2026); SU, Sweden, (11 November, 2026); Osaka U, Young JADE Conference, Japan (5 December, 2026); UCL, PhD Seminar, UK (18 December, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2027); <a href="https://avivihadar.github.io/brownbag/" target="_blank" rel="noopener">UCL</a>, UK (15 March, 2027)</p>
+  <p>SSE, Sweden (19 October, 2026); IIES, Sweden, (11 November, 2026); ASWEDE, Sweden, (16-17 November, 2026); Osaka U, Young JADE Conference, Japan (5 December, 2026); UCL, PhD Seminar, UK (18 December, 2026); <a href="https://sites.google.com/view/gripsseminar/" target="_blank" rel="noopener">GRIPS</a>, Japan (20 January, 2027); <a href="https://avivihadar.github.io/brownbag/" target="_blank" rel="noopener">UCL</a>, UK (15 March, 2027)</p>
 </details>
 
 <details class="abstract">
