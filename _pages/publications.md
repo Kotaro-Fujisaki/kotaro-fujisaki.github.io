@@ -7,10 +7,6 @@ author_profile: false
 {% include base_path %}
 
 <style>
-  /* Reduce all font sizes on this page by ~2pt uniformly */
-  html {
-    font-size: calc(100% - 2pt);
-  }
 
   /* Tighten the gap between a paper title and the coauthor line below it */
   h3 {
