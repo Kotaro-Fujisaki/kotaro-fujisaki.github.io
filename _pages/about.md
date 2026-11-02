@@ -9,11 +9,11 @@ redirect_from:
 
 I am a fifth-year PhD student in Economics at University College London (UCL). 
 
-I study development and labour economics, with a primary focus on Asia. 
+I study development and labour economics, focusing primarily on Asia. 
 
-My research themes include:
-(A) Production in developing countries;
-(B) Human capital accumulation in developing countries;
+My research themes include: <br>
+(A) Production in developing countries; <br>
+(B) Human capital accumulation in developing countries; <br>
 (C) Interactions between norms and policies.
 
 I will be visiting the Stockholm School of Economics (20 September–19 October 2026) and Stockholm University (20 October–18 November 2026) this autumn.
