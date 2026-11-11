@@ -63,6 +63,11 @@ author_profile: false
 </details>
 
 <details class="abstract">
+  <summary>Abstract</summary>
+Large-scale land acquisitions (LSLAs) by private firms are spreading across developing countries, where agro-industrial demand for land meets governments' efforts to modernize agriculture. I study how LSLAs affect economic structure and welfare, and how policy can discipline them for better welfare, using evidence from Cambodia. Cambodia's economic land concessions (ELCs) fueled a rapid expansion of rubber plantations that was later partly reversed: roughly 40% of concessions were canceled or downsized over environmental and human rights concerns. A difference-in-differences design exploiting variation in concession location and timing shows that ELCs impeded structural transformation: they expanded rubber cultivation, slowed manufacturing growth, and drew migrants into labor-intensive rubber tapping. With the global rubber price boom, ELCs raised local economic activity and consumption, but they also caused deforestation and land conflicts. A quantitative spatial model implies that the full ELC policy sequence, expansion followed by reversal, raised income-based welfare by 3.2%. Accounting for deforestation and evictions reduces this gain to 2.0%; without the reversal, it would have been only 1.6%. Without the rubber price boom, the same sequence would have reduced welfare by 0.3%. LSLAs can thus convert global commodity demand into higher local incomes, but when the crop technology is labor-complementary, as with rubber, they risk slowing structural transformation, and deforestation and evictions can erode welfare gains, making corrective policy critical.
+</details>
+
+<details class="abstract">
   <summary>Grant</summary>
   <p>Approx. 2,000 GBP, ESPEC Foundation, Japan, 2026-27</p>
 </details>
