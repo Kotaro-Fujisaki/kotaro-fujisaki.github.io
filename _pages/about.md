@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fifth-year PhD student in Economics at University College London (UCL). 
 
-I study development and labour economics, focusing primarily on Asia. 
+I study development, labour, and spatial economics, focusing primarily on Asia. 
 
 My research themes include: <br>
 (A) Production in developing countries; <br>
